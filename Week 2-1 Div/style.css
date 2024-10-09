@@ -1,0 +1,14 @@
+.alignment {
+    display: flex;
+    flex-direction: column;
+}
+.kotak-red {
+    width: 100vw;
+    height: 50vh;
+    background-color: red;
+}
+.kotak-white {
+    width: 100vw;
+    height: 50vh;
+    background-color: white;
+}

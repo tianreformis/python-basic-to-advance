@@ -1,0 +1,16 @@
+div column
+	div row 	
+		red
+		blue
+		red	
+	div row 
+		blue 
+		red
+		blue
+
+1. Cang Ie Hua 100
+2. VIctorya 90
+3. Verencia 90
+4. Shane 90
+5. Gisel 90
+yang belum selesai 80

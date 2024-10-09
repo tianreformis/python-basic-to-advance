@@ -1,0 +1,25 @@
+html, tag awal pembuka dokumen
+Head, Kepala dokumen = berisi tanda tangan digital dan identitas dokumen.
+	a. title, judul dokumen
+	b. link, koneksi antar dokumen
+	c. meta, berisi tanda tangan 	digital
+body, isi dokumen
+	a. manipulasi teks	
+		i. p, paragraph
+		ii. b, bold
+		iii. i, italic
+		iv. u, underline
+		v. list <li>	
+			a. ordered <ol>
+			b. unordered <ul>
+		vi. breakline <br />
+	b. Heading 
+		i. heading 1 <h1>... heading  6 		<h6>
+	c. Tabel <table> 
+		<th> table header (opsional)
+		membutuhkan <tr> table row
+			membutuhkan <td> table data
+	d. image <img>
+		membutuhkan src dan alt
+			
+	

@@ -1,0 +1,7 @@
+.container {
+    width: 20vw;
+    height: 20vw;
+    aspect-ratio: 1/1;
+    background-color: slateblue;
+    border-radius: 20vw;
+}
