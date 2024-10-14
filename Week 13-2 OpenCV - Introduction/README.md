@@ -9,6 +9,7 @@ Pada Terminal lakukan perintah berikut
 ```
 pip3 install opencv-python
 ```
+Keterangan : pip3, adalah python library management
 
 # Author: @tianreformis (https://github.com/tianreformis)
 # Project Repository 
